@@ -1,2 +1,3 @@
-# muze-app
-The Muze app for Android &amp; iOS
+# Music + News = Muze
+
+An app to give you updates about your favorite music and artists!
